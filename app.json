@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "FarmerEats",
+    "slug": "farmereats",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#D5715B"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.farmereats.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#D5715B"
+      },
+      "package": "com.farmereats.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": []
+  }
+}
